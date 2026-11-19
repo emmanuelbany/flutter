@@ -1,4 +1,4 @@
-# CV Flutter - Joël Kambale
+# CV Flutter - NYANDWI BANYASEMA Emmanuel
 
 Application mobile développée avec Flutter et Dart.
 
@@ -60,4 +60,4 @@ flutter run
 
 ## Auteur
 
-Joël Kambale
+NYANDWI BANYASEMA Emmanuel
